@@ -17,10 +17,12 @@ I build ML pipelines, agentic AI systems, and LLM-powered backends that actually
 
 ## Stack
 
+| Category | Technologies |
+|---|---|
 | **ML & Data** | PyTorch · TensorFlow · scikit-learn · LangChain · NumPy · Pandas · OpenCV |
 | **Backend** | FastAPI · Flask · async execution · RESTful APIs · Redis · Docker · CI/CD |
 | **Data & Storage** | PostgreSQL · Supabase · ChromaDB · ETL pipelines · data preprocessing |
-| **Cloud** | AWS (Certified) · Google Cloud · Railway · Linux |
+| **Cloud** | AWS Certified · Google Cloud · Railway · Linux |
 
 ---
 
